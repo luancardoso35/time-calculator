@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/time-calculator/static/css/main.c3cd4dcf.css",
-    "main.js": "/time-calculator/static/js/main.61f75e04.js",
+    "main.css": "/time-calculator/static/css/main.f74166f2.css",
+    "main.js": "/time-calculator/static/js/main.665abeca.js",
     "index.html": "/time-calculator/index.html",
-    "main.c3cd4dcf.css.map": "/time-calculator/static/css/main.c3cd4dcf.css.map",
-    "main.61f75e04.js.map": "/time-calculator/static/js/main.61f75e04.js.map"
+    "main.f74166f2.css.map": "/time-calculator/static/css/main.f74166f2.css.map",
+    "main.665abeca.js.map": "/time-calculator/static/js/main.665abeca.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3cd4dcf.css",
-    "static/js/main.61f75e04.js"
+    "static/css/main.f74166f2.css",
+    "static/js/main.665abeca.js"
   ]
 }
