@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/time-calculator/static/css/main.b47d6706.css",
+    "main.js": "/time-calculator/static/js/main.b1f1902b.js",
+    "index.html": "/time-calculator/index.html",
+    "main.b47d6706.css.map": "/time-calculator/static/css/main.b47d6706.css.map",
+    "main.b1f1902b.js.map": "/time-calculator/static/js/main.b1f1902b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b47d6706.css",
+    "static/js/main.b1f1902b.js"
+  ]
+}
