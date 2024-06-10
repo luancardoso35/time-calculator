@@ -21,7 +21,7 @@ export const Box = () => {
 
     return (
         <>
-            <div className="w-[700px] max-w-[700px] sm:w-[85vw] md:w-[70vw]  h-[80vh] rounded-lg absolute left-1/2 -translate-x-1/2 top-1/2 -translate-y-1/2 bg-gradient-to-r  from-[#7de3fc36] to-[#b9b6e53c]">
+            <div className="w-[700px] max-w-[700px] sm:w-[85vw] sm:px-6 md:w-[70vw] h-[80vh] rounded-lg absolute left-1/2 -translate-x-1/2 top-1/2 -translate-y-1/2 bg-gradient-to-r  from-[#7de3fc36] to-[#b9b6e53c]">
                 <div className="w-full py-8 text-center text-white">
                     <h1 className="font-bold text-2xl">Calculadora de tempo atendido</h1>
                     <label htmlFor="message" className="text-lg block mt-5">Insira aqui todos os seus atendimentos</label>
