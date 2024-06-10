@@ -1,3 +1,6 @@
+# time-calculator
+This single-page web application is designed for professionals to calculate the total time spent attending to patients. Users input messages detailing individual patient attendance times, and the application automatically calculates and displays the total hours attended in a day. Built in React, using Typescript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +47,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
