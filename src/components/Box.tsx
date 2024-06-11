@@ -33,12 +33,12 @@ export const Box = () => {
                         totalTime >= 0 ? 
                         <div className="mt-6">
                             <p className="text-lg">O tempo total atendido foi de: </p>
-                            <p className="font-medium text-7xl mt-7 text-cyan-300">{totalTime} {totalTime > 1 ? 'horas':'hora'}</p>
+                            <p className="font-medium text-7xl sm:text-4xl mt-7 text-cyan-300">{totalTime} {totalTime > 1 ? 'horas':'hora'}</p>
                         </div>
                         :                        
                         clickedButton &&
                         <div className="mt-10">
-                            <p className="text-red-400 text-lg font-bold	">Insira um texto válido</p>
+                            <p className="text-red-400 text-lg font-bold">Insira um texto válido</p>
                         </div>
                     }  
                 </div>
